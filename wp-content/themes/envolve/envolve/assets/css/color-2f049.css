@@ -131,11 +131,11 @@
 .banner-section .owl-theme .owl-nav button:hover:before,
 .search-popup .search-form fieldset input[type="submit"],
 .btn-style-two .btn-title:before {
-    background-color: #e6362d;
+    background-color: #1a526e;
 }
 
 .contact-details-section-three .pointer-block .point:after {
-    background-color: #e6362d;
+    background-color: #1a526e;
 }
 
 
@@ -278,7 +278,7 @@
 .sec-title h4,
 a:hover,
 a {
-    color: #e6362d;
+    color: #1a526e;
 }
 
 
@@ -319,16 +319,16 @@ a {
 .testimonial-section-eleven .client-block:hover .thumb,
 .testimonial-section-eleven .client-block:hover .thumb:before,
 .about-section .logo {
-    border-color: #e6362d;
+    border-color: #1a526e;
 }
 
 .contact-details-section-three .pointer-block .point {
-    border-color: #e6362d;
+    border-color: #1a526e;
 }
 
 .accordion-box.style-two .block .acc-btn.active,
 .accordion-box.style-three .block .acc-btn.active {
-    border-left-color: #e6362d;
+    border-left-color: #1a526e;
 }
 
 

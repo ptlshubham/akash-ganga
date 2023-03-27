@@ -33,7 +33,7 @@
 
 .our-shop .items-sorting .text p{
   font-weight: 500;
-  color: #0c2957;
+  color: #d22027;
   margin: 0px;
   font-family: var(--fira-sans);
   font-size: 18px;
@@ -223,7 +223,7 @@
   font-size: 15px;
   font-weight: 500;
   background: #fff;
-  color: #0c2957;
+  color: #d22027;
   font-family: var(--fira-sans);
   border-radius: 5px;
   visibility: hidden;
@@ -281,11 +281,11 @@
   margin-bottom: 5px;
   font-size: 22px;
   font-weight: 600;
-  color: #0c2957;
+  color: #d22027;
 }
 
 .product-block-one .inner-box .lower-content h3 a {
-  color: #0c2957;
+  color: #d22027;
 }
 
 .product-block-one .inner-box .lower-content p{
@@ -309,7 +309,7 @@
   font-size: 18px;
   font-weight:500;
   margin-top:4px;
-  color: #0c2957;
+  color: #d22027;
 }
 
 .widget_filter-price .title:before{
@@ -338,7 +338,7 @@
   font-weight:500;
   width:auto;
   text-align:left;
-  color: #0c2957;
+  color: #d22027;
 }
 
 .widget_filter-price .ui-widget.ui-widget-content{
@@ -530,7 +530,7 @@
   content: "\f067";
   font-size: 12px;
   font-style: normal;
-  color: #0c2957;
+  color: #d22027;
   font-family: 'Font Awesome 5 Pro';
   font-weight: 700;
 }
@@ -539,7 +539,7 @@
   content: "\f068";
   font-size: 12px;
   font-style: normal;
-  color: #0c2957;
+  color: #d22027;
   font-weight: 700;
   font-family: 'Font Awesome 5 Pro';
 }
@@ -1536,7 +1536,7 @@
   font-size: 16px;
   font-weight: 600;
   font-family: var(--fira-sans);
-  color: #0c2957;
+  color: #d22027;
   background: #f6f6f6;
   text-transform: uppercase;
   padding: 14.5px 40px;
@@ -1564,7 +1564,7 @@
   font-size: 16px;
   font-weight: 600;
   font-family: var(--fira-sans);
-  color: #0c2957;
+  color: #d22027;
   background: #f6f6f6;
   padding: 13px 40px;
   text-transform: uppercase;
